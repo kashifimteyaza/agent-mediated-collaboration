@@ -741,6 +741,12 @@ pre code {
   letter-spacing: 0.05em;
   margin-bottom: 0.75rem;
 }
+.paper-affil {
+  font-size: var(--size-xs);
+  color: var(--ink-light);
+  margin-top: -0.5rem;
+  margin-bottom: 0.75rem;
+}
 .paper-abstract {
   font-size: var(--size-sm);
   color: var(--ink-mid);
