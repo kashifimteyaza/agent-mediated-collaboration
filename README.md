@@ -10,6 +10,7 @@ Live site: <https://kashifimteyaza.github.io/agent-mediated-collaboration/>
 
 - `index.html`, `proposal.html`, `organizers.html`, `cfp.html`, `papers.html`, `ai-use.html` — public workshop website
 - `style.css` — site styles
+- `camera_ready/` — camera-ready PDFs of accepted position papers linked from `papers.html` (only papers the authors agreed to share publicly)
 - `proposal-source.tex` — LaTeX source of the workshop proposal
 - `proposal-source.bib` — bibliography for the proposal
 
